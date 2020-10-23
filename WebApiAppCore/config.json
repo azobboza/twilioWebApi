@@ -1,0 +1,3 @@
+﻿{
+  "ConnectionStrings": "server=mysqlserverboza.database.windows.net;database=mySampleDatabase;User Id=azureuser;Password=BozaMira123T!"
+}
